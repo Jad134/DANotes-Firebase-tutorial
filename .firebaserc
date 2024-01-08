@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "danotes-c46f6": {
+      "hosting": {
+        "da-keep": [
+          "danotes-c46f6"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "danotes-c46f6"
+  }
+}
